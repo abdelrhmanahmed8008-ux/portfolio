@@ -580,21 +580,17 @@ h1 { animation: fadeUp 0.6s ease both; animation-delay: 0.2s; }
       </div>
     </div>
     <div class="hero-stats">
-      <div class="stat-item">
-        <div class="stat-num">2+</div>
-        <div class="stat-label">Years in Embedded Software & Firmware</div>
-      </div>
-      <div class="stat-item">
-        <div class="stat-num">6</div>
-        <div class="stat-label">Months of hands-on autonomous robotics research at TU Wien</div>
-      </div>
-      <div class="stat-item">
-        <div class="stat-num">3</div>
-        <div class="stat-label">Programming languages across embedded and robotics stacks</div>
-      </div>
-      <div class="stat-item">
-        <div class="stat-num">6+</div>
-        <div class="stat-label">Engineering projects spanning robotics, vision, and embedded systems</div>
+      <div style="padding: 1.5rem 0; border-top: 1px solid var(--border);">
+        <div style="font-family: 'DM Mono', monospace; font-size: 0.65rem; color: var(--accent); letter-spacing: 0.15em; text-transform: uppercase; margin-bottom: 1.25rem;">Objective</div>
+        <p style="font-size: 0.95rem; color: var(--muted); line-height: 1.85; margin-bottom: 1.1rem;">
+          To contribute to innovative teams developing autonomous and embedded systems — applying hands-on expertise in ROS 2, computer vision, and firmware development to build reliable, real-world engineering solutions.
+        </p>
+        <p style="font-size: 0.95rem; color: var(--muted); line-height: 1.85; margin-bottom: 1.1rem;">
+          With 2+ years in embedded software and 6 months of robotics research at TU Wien, I bring a full-stack engineering perspective — from bare-metal microcontrollers to autonomous navigation stacks running on AI compute platforms.
+        </p>
+        <p style="font-size: 0.95rem; color: var(--muted); line-height: 1.85;">
+          Seeking roles in <span style="color: var(--text); font-weight: 500;">autonomous robotics</span>, <span style="color: var(--text); font-weight: 500;">embedded systems</span>, or <span style="color: var(--text); font-weight: 500;">computer vision</span> — in Austria, Italy, or remote — where I can grow alongside ambitious engineers and contribute from day one.
+        </p>
       </div>
     </div>
   </div>
